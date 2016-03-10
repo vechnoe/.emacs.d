@@ -1,0 +1,93 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/" . "html/")
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/html/scripts/" . "lib/")
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/html/" . "scripts/")
+ ("/home/maximus/" . ".emacs.d/")
+ ("/home/maximus/Desktop/work/workspace/" . "game_visualization_service/")
+ ("/home/" . "maximus/")
+ ("/home/maximus/.emacs.d/elpa/auto-complete-20160107.8/" . "dict/")
+ ("/home/maximus/.emacs.d/elpa/" . "auto-complete-20160107.8/")
+ ("/home/maximus/.emacs.d/" . "elpa/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/maximus/Desktop/work/workspace/vip_boxing_data_parser/"
+ "/home/maximus/"
+ "/home/maximus/Desktop/work/workspace/websockets-demo/html/scripts/"
+ "/home/maximus/Desktop/work/workspace/websockets-demo/html/scripts/lib/"
+ "/home/maximus/goworkspace/"
+ "/home/maximus/Desktop/work/workspace/websockets-demo/"
+ "/home/maximus/Desktop/work/workspace/game_visualization_service/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "requirements.txt"
+ "Makefile"
+ "data_parser.py"
+ "xml_parser.py"
+ "event_ended.xml"
+ "result.xml"
+ "match_results.xml"
+ "match_progress_no_more_bet.xml"
+ "match_progress_void.xml"
+ "match_bet.xml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/maximus/Desktop/work/workspace/vip_boxing_data_parser/" (22238 10887 785369 785000) ".#*SPEEDBAR*" "data_parser.py" "#*SPEEDBAR*#" "Makefile~" "Makefile" "requirements.txt~" ".projectile" "requirements.txt" ".env/" "../" "data_parser.py~" "./" "xml_examples/")
+
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/" (22233 49301 846466 667000) "#ws.py#" "Makefile~" "Makefile" "ws.py" "logs/" ".gitignore" "ws.py~" ".idea/" "centrifugo" "config.json" "requirements.txt" ".env/" "../" "ws_minimax/" "./" "ws_minimax.zip")
+
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/html/" (22233 47145 416653 11000) "ws.html" "ws.html~" "../" "./" "scripts/")
+
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/html/scripts/lib/" (22233 47094 715987 132000) "sha256.js" "../" "./" "centrifuge-js/")
+
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/html/scripts/lib/centrifuge-js/" (22227 6235 67920 594000) "centrifuge.min.js" "../" "centrifuge.js" "./")
+
+ ("/home/maximus/goworkspace/" (22233 22644 153549 97000) "src/" ".profile" ".projectile" "bin/" "../" "./" "pkg/" "hello/")
+
+ ("/home/maximus/" (22233 18269 576563 257000) ".iscan_preference" "images/" ".xiphos/" "Screenshot from 2016-02-21 14:59:29.png" ".pulse/" ".apport-ignore.xml" ".gstreamer-0.10/" ".recently-used" ".xscreensaver" ".PyCharm40/" ".prboom-plus/" "ubuntu/" ".bashrc" ".fonts/" ".gnome2/" ".gimp-2.8/" ".sane/" ".profile" ".npm/" ".dropbox/" ".mozilla/" ".local/" "Загрузки/" ".PyCharm50/" "log.txt" ".filezilla/" ".gconf/" "Видео/" ".pip/" "._emacs.d/" ".IdeaIC14/" ".gl-117/" ".bashrc_profile~" ".Popcorn-Time/" ".profile~" ".cache/" ".emacs~" ".ICEauthority" ".gphoto/" ".gvfs/" ".pypirc~" ".mission-control/" ".thumbnails/" "._emacs" ".Skype/" "ParatextProjects/" "bibledit-1.0.343.tar.gz" ".moc/" "projects/" "Downloads/" ".sword/" ".android/" ".pypirc" ".bzf/" ".xsession-errors.old" "goworkspace/" "dic/" ".node-gyp/" ".config/" ".PyCharm30/" "music/" ".texmf-var/" ".FontForge/" "sil.gpg" ".mplayer/" "fontconfig/" ".gnupg/" ".python_history" "Документы/" "Desktop/" ".rediscli_history" "texmf/" ".scala_history" ".scummvmrc" ".Xauthority" "Общедоступные/" ".gksu.lock" ".gtkrc-2.0" ".bibledit-xiphos/" ".fontconfig/" "test.go" ".putty/" ".bash_history" ".pulse-cookie" "../" ".aptitude/" "minecraft.tar.gz" ".ipynb_checkpoints/" ".lyx/" "Шаблоны/" ".java/" ".jupyter/" ".dbus/" ".gnome2_private/" ".googleearth/" ".prboom/" "hello.c" ".gtk-bookmarks" ".bash_logout" "movies/" ".purple/" ".swp" ".gnome/" "env/" ".xsession-errors" ".bashrc~" "temeratures.c" ".goldendict/" "node_modules/" ".widelands/" ".ssh/" "bibledit/" "Dropbox/" "./" ".viminfo" "Screenshot from 2016-02-21 14:55:46.png" ".icons/" ".pythonhist" ".scummvm/" ".cinnamon/" ".emacs" ".go/" "books/" ".dropbox-dist/" "Изображения/" "minimax-implementation-plan.md" ".mono/" "42-cc-bot" ".critter/" ".gitconfig" ".pki/" ".ipython/" "Documents/" ".w3m/" ".emacs.d/" ".kde/" ".vnc/" "print.pdf" "sda-smart.txt" "Музыка/" "VirtualBox VMs/" "esb/" ".minecraft/")
+
+ ("/home/maximus/Desktop/work/workspace/websockets-demo/html/scripts/" (22230 46383 375109 696000) "../" "app.js" "./" "lib/")
+
+ ("/home/maximus/goworkspace/hello/" (22233 23827 568636 929000) "hello.go" "hello.go~" ".projectile" "../" "./" "hello")
+
+ ("/home/maximus/.emacs.d/" (22233 12153 654204 930000) "auto-save-list/" "projectile.cache" "snippets/" "projectile-bookmarks.eld" "ido.last" "games/" "ido.last~" "../" "ac-comphist.dat" "eshell/" "./" "elpa/" ".mc-lists.el")
+
+ ("/home/maximus/.emacs.d/elpa/" (22232 7740 465068 473000) "idea-darkula-theme-20160208.2311/" "bs-ext-20130824.459/" "fill-column-indicator-20151030.1233/" "idea-darkula-theme-readme.txt" "popup-20151222.1339/" "highlight-current-line-20051013.1056/" "go-mode-20160220.1751/" "hideshow-org-20120223.1450/" "archives/" "auto-complete-20160107.8/" "multiple-cursors-20160213.817/" "web-mode-20160212.538/" "gnupg/" "fill-column-indicator-readme.txt" "../" "nlinum-1.6.signed" "./" "sr-speedbar-20150804.951/" "yasnippet-20160131.948/" "nlinum-1.6/")
+
+ ("/home/maximus/.emacs.d/elpa/go-mode-20160220.1751/" (22232 7744 401151 811000) "go-mode-pkg.el" "go-mode.el" "go-mode.elc" "../" "./" "go-mode-autoloads.el~" "go-mode-autoloads.el")
+
+ ("/home/maximus/Desktop/work/workspace/game_visualization_service/" (22224 25633 810138 266000) "Makefile" "logs/" "service-config.yaml" ".gitignore" "main.py" "README.md" ".idea/" "data/" "requirements.txt" ".env/" "../" "__pycache__/" "visualization-service.conf" "manage.sh" "./" "docs/" ".git/")
+
+ ("/home/maximus/Desktop/work/workspace/" (22225 60642 813546 341000) "websockets-demo/" "archive/" "vip_boxing_kiron/" "rng_emulator/" "game_management_panel/" "../" "game_visualization_service/" "vip_boxing_favbet/" "./" "vip_boxing_legacy/" "minimax_game_player/" "alva/")
+
+ ("/home/maximus/Desktop/workspace/react-tutorial-master/public/" (22225 34952 477994 490000) "index.html~" ".#index.html" "index.html" "#index.html#" "../" "css/" "./" "scripts/")
+
+ ("/home/maximus/Desktop/workspace/react-tutorial-master/public/scripts/" (22224 50305 595235 686000) "helloworld.js" "example.js" "#hello.js#" ".#hello.js" "../" "./" "#example.js#" "hello.js~" "hello.js")
+
+ ("/home/maximus/Desktop/work/workspace/game_visualization_service/data/" (22224 31190 552556 718000) "3_game_3.json" "3_game_8.json" "3_game_7.json" "3_initial.json" "3_initial.json~" "../" "3_game_6.json" "3_game_9.json" "3_game_0.json" "3_game_4.json" "3_game_2.json" "./" "3_game_1.json" "3_game_10.json" "3_result.json" "3_game_5.json")
+
+ ("/home/" (22102 50080 190602 259000) "work/" "../" "lost+found/" "./" "maximus/")
+
+ ("/home/maximus/Desktop/" (22220 54424 628420 302000) "svidetelstvo-o-roshzdenii-iustin-chernyatevich.png" "cover" "maximus.jpg" "RadioJS-30.mp3" "olga-sun-image.png" "RadioJS-28.mp3" "bogoyavlenie.jpg" "Jethro Tull/" "Robototekhnika_dlya_detey_i_roditeley.pdf" "barbabra.jpg" "Six.Feet.Under.season.1.RUS.Subs.CATVRip.[westfilm.tv]/" "Дополнение.html" "RadioJS-31.mp3" "130103_6min_random_acts_of_kindness_web_130103_6min_random_acts_of_kindness_audio_au_bb.mp3" "bogoyavlenie-2.jpg" "6min_one_way_mars_130115_6min_one_way_mars_audio_au_bb.mp3" "Mark_Sammerfild_-_Programmirovanie_na_yazyke_Go.pdf" "stardict-dicts/" "К. Сьерра, Б. Бейтс - Изучаем Java (Мировой компьтерный бестселлер) - 2012 .djvu" "RadioJS-26.mp3" "bbc_6min_happiness_for_web_130815_6min_happiness_audio_au_bb.mp3" "debian-8.2.0-amd64-CD-1.iso" "work/" "workspace/" "martin-justin.jpg" "130328_6_min_noise_for_web_130328_6min_is_silence_golden_audio_au_bb.mp3" "130307144504_130307_6min_tearjerkers.pdf" "Бенджамин А., Шермер М. - Магия чисел. Моментальные вычисления в уме и другие математические фокусы - 2015.pdf" "Наука и жизнь 1890-2012/" "Khendli_Bill__39_Schitayte_v_ume_kak_kompyuter_39__20.pdf" "web-calendar-screen.png" "spas-4.jpg" "Do you really understand how your business customers buy.docx" "RadioJS-27.mp3" "Krokford_-_JavaScript_Silnye_storony.pdf" "pubsub.png" "kiselev-ariphmetica.djvu" "Pertsov_E__quot_Iskusstvo_brat_vzyatki_quot__SPb__1830.pdf" "temp/" "6min_suspended_coffee_web_130704_6min_suspended_coffee_audio_au_bb.mp3" "martin-mak.jpg" "olga.jpg" "Киселёв А.П. – Систематический курс арифметики – 2002.djvu" "minimax-blockscheme.jpg" "cover~" "6min_messenger_bird_130110_6min_messenger_bird_audio_au_bb.mp3" "130307_6min_tearjerkers_for_web_130307_6min_tearjerkers_audio_au_bb.mp3" "Марк Саммерфилд - Python на практике (2014).djvu" "config" "ubuntu-14.04.3-desktop-amd64.iso" "Ships_and_soldiers.djvu" "Эрик Эванс-Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем-2010/" "Sublime Text  3 Build 3065/" "Стивен Строгац - Удовольствие от x - 2014.pdf" "screen-search.png" "Addison Wesley - Практика программирования (2004).djvu" "example11.html" "PonomarUnicode.pdf" "Керниган,Ритчи - Программирование на C.2ed.2009.djvu" "spas-1.jpg" "Torchwood/" "Пономарёв С.А., Сырнев Н.И. - Сборник задач и упражнений по арифметике для 5 и 6 классов - 1967.djvu" "Elon_Musks_Hyperloop_Announcement_-_DailyCast_for_Thursday.mp3" "angular-locale_ru.js" "130801_6_min_angry_for_web_130801_6min_angry_people_audio_au_bb.mp3" "AstroMenaceScreenshot203.5.bmp" "rt_podcast461.mp3" "olga_velo.jpg" "Гласс Роберт - Факты и заблуждения профессионального программирования (Профессионально) - 2007.pdf" "скачанные файлы.png" "description" "maximus100х100.jpg" "spas-3.jpg" "output.pdf" "zayavlenie.png" "130327142709_130328_6min_noise.pdf" "13-kolesov.pdf" "olga-photos/" "M_Fauler_UML_Osnovy_3-e_izdanie.pdf" "20150829_131123.gpx" "Raymond_S._Eric-Iskusstvo_programmirovaniya_dlya_UNIX.djvu" "spas-2.jpg" "spravka_justin.jpg" "AstroMenaceScreenshot202.2.bmp" "istoriya-srednich-vekov-6.pdf" "../" "./")
+
+ ("/home/maximus/Desktop/workspace/" (22215 26792 36709 748000) "develop/" "index.html" "file_handler/" "react-tutorial-master/" "django-firing/" "asyncenv/" "rooms_and_users_webapp/" "packages/" "blog.drevle.com/" "vk_auto_post/" "holydate-gui_0.1a1_i386.deb" "key-gpg" "db.sqlite3" "clinic/" "FortyTwoTestTask/" ".idea/" "playlist_miner/" "ancientOrthodoxWebCalendar/" "сhurch_slavonic_converter/" "сhurch_slavonics_converter/" "python_koans-master/" "webtest/" "python-qdarkstyle/" "webtest_complete.tar.gz" "api_calendar_drevle_com/" "test_complete.tar.gz" "vechnoe_test_42cc/" "automobi_project/" "css-fw/" "fonts-cu/" "../" "Inconsolata-LGC/" "_site/" "holydate/" "maxim_chernyatevich_resume/" "qjuliancalendarwidget/" "problem_solving_with_algorithms_and_data_structures_on_python/" "webcalendar/" "img/" "products/" "holydate-project/" "restcountries/" "async/" "holydate_webapp/" "./" "python-proxy/" "ajax" "news_test/" "key-gpg~" "urwid_test/" "interview/" "holydate-gui-project/" "holydate-gui/")
+
+ ("/home/maximus/Desktop/workspace/react-tutorial-master/" (22216 50896 602996 348000) ".editorconfig" "LICENSE" "Makefile" ".gitignore" "README.md" ".idea/" "comments.json" "requirements.txt" ".env/" "public/" "../" "package.json" "./" "app.json" "server.py")
+
+ ("/home/maximus/projects/products/src/apps/products/" (22222 12320 427245 787000) "urls.pyc" "__init__.pyc" "templatetags/" "__init__.py" "models.py" "urls.py" "fixtures/" "forms.pyc" "forms.py" "admin.pyc" "migrations/" "views.py" ".#admin.py" "../" "./" "tests/" "models.pyc" "admin.py" "views.pyc")
+
+ ("/home/maximus/.emacs.d/elpa/auto-complete-20160107.8/dict/" (22222 9222 443519 740000) "ts-mode" "c-mode" "octave-mode" "coq-mode" "haskell-mode" "verilog-mode" "scala-mode" "clojure-mode" "css-mode" "tuareg-mode" "php-mode" "lua-mode" "erlang-mode" "python-mode" "sh-mode" "qml-mode" "../" "tcl-mode" "clojurescript-mode" "caml-mode" "c++-mode" "ruby-mode" "scheme-mode" "./" "ada-mode" "js-mode" "java-mode" "go-mode" "sclang-mode")
+
+ ("/home/maximus/.emacs.d/elpa/auto-complete-20160107.8/" (22222 9223 183544 176000) "auto-complete-autoloads.el" "auto-complete.el" "auto-complete-autoloads.el~" "../" "dict/" "auto-complete-config.elc" "./" "auto-complete-config.el" "auto-complete.elc" "auto-complete-pkg.el")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

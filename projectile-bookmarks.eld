@@ -1,0 +1,1 @@
+("~/Desktop/workspace/holydate-project/" "~/goworkspace/" "~/Desktop/work/workspace/vip_boxing_data_parser/" "~/Desktop/work/workspace/game_publisher_service/" "~/Desktop/work/workspace/websockets-demo/" "~/goworkspace/hello/")

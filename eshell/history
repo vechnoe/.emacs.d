@@ -1,0 +1,128 @@
+cd ..
+mv react/ scripts
+ls
+css  index.html  index.html~  scripts
+cd..
+cd ..
+make run
+make run
+cd ..
+cd ..
+make run
+make run
+cd ..
+make run
+cd ..
+cd ..
+cd work/workspace/
+mkdir websockets-demo
+cd websockets-demo/
+ls
+./centrifugo 
+./centrifugo getconfig
+./centrifugo -getconfig
+ls
+./centrifugo help
+./centrifugo genconfig
+ls
+./centrifugo --config=config.json 
+./centrifugo --config=config.json 
+touch Makefile
+ls
+touch requrements.txt
+make 
+ls
+mv requrements.txt requirements.txt
+make 
+mkdir html
+touch html/ws.html
+mkdir html/scripts
+touch html/scripts/app.js
+mkdir html/scripts/lib
+ls
+mkdir .gitignore
+rmdir .gitignore/
+touch .gitignore
+make run 
+make run 
+git clone git@github.com:centrifugal/web.git
+touch html/scripts/app.jsmamak
+make run 
+touch ws.py
+make install 
+make install 
+make
+ls
+rm requrements.txt\~
+rm requrements.txt
+rm requrements.txt
+make install
+make shell
+i
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+make client 
+cd html/scripts/lib/
+git clone https://github.com/centrifugal/centrifuge-js.git
+ls
+ls
+ls centrifuge-js/
+ls
+cd Desktop/work/workspace/websockets-demo/
+make run 
+mkdir goworkspace
+cd goworkspace/
+go build hello.go 
+ls -la
+ls
+ls
+ls -a
+mkdir hello
+mv hello.go hello/
+mv .projectile hello/
+touch .projectile
+cd hello/
+go build hello.go
+./hello
+go build hello.go
+./hello
+ls
+go build hello.go
+go build hello.go
+./hello
+touch .projectile
+ls
+ls
+ls
+ls
+ls
+touch result.xml
+ls
+mv fixture_list.xml 0_fixture_list.xml
+mv 0_fixture_list.xml fixture_list.xml
+mkdir xml_examples
+mv *.xml xml_examples/
+ls
+rm match_results.xml\~ 
+rm result.xml\~
+ls
+ls
+rm \*SPEEDBAR\*
+make
+make run file=xml_examples/fixture_list.xml 
+make run file=xml_examples/fixture_list.xml 
+make run file=xml_examples/fixture_list.xml 
+make run file=xml_examples/fixture_list.xml 
